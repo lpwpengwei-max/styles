@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" name-as-sort-order="all" sort-separator=" " demote-non-dropping-particle="never" initialize-with=" " initialize-with-hyphen="false" page-range-format="expanded" default-locale="zh-CN">
   <info>
-    <title>GB/T 7714—2015（顺序编码，双语，无 URL、DOI）</title>
-    <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）</id>
-    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI）" rel="self"/>
+    <title>GB/T 7714—2015（顺序编码，双语，无 URL、DOI，姓大写，名全拼）</title>
+    <id>https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI，姓大写，名全拼）</id>
+    <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语，无URL、DOI，姓大写，名全拼）" rel="self"/>
     <link href="https://zotero-chinese.com/styles/GB-T-7714—2015（顺序编码，双语）" rel="template"/>
     <link href="https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D8055ED3A7E05397BE0A0AB82A" rel="documentation"/>
     <author>
